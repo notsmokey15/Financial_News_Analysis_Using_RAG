@@ -1,0 +1,19 @@
+# Environment variables - CRITICAL TO IGNORE
+.env
+
+# Virtual environment folder
+venv/
+/venv/
+
+# Database folder
+db/
+/db/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
